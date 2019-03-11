@@ -1,22 +1,23 @@
 **Type your favorite animal next to your name below!**
 **Do not change any lines except yours**
+
 Sam H: Capybara
 
-Adam: Test
+Adam: 
 
-Amrita: Test2
+Amrita: 
 
-Anvita: Test4
+Anvita: 
 
 Aram: 
 
-Bayalag: Test5
+Bayalag: 
 
-Carly: test6
+Carly: 
 
-Chris: dog
+Chris: 
 
-Eileen: cat
+Eileen: 
 
 Ervin: 
 
@@ -57,4 +58,3 @@ Varun:
 Victor Odiwuor: 
 
 Victor Odouard: 
-

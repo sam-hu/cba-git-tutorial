@@ -5,7 +5,7 @@ from collections import Counter
 array = []
 with open("animals.txt", "r") as ins:
     for line in ins:
-        if not (line[:2] == "**"):
+        if line[:2] != "**" and line != "\n":
             animal = line.split(":", 1)[1]
             strip1 = animal.strip()
             strip2 = strip1.strip("\n")
