@@ -1,8 +1,8 @@
 **Type your favorite animal next to your name below!**
 **Do not change any lines except yours**
 Sam H: Capybara
-Adam: Hello
-Amrita: 
+Adam: 
+Amrita: Test1
 Anvita: 
 Aram: 
 Bayalag: 
